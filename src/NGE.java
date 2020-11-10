@@ -8,7 +8,8 @@ the stack that is stack.peek()  then we store stack peek value in the output arr
 if greater than peek value in the stack then we pop till then we we get empty stack or peek value is greater than a[i]
 then after we print the output array.
 this algo takes O(n) time complexity.
-
+Also after some variation in the loop and operator sign we can also find nearest grater to left , nearest smaller to right
+and left.
 
 
  */
